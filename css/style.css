@@ -13,9 +13,8 @@ a {
     /* Ảnh nền của trang đầu tiên nếu bạn muốn đổi thì đổi tại đây */
     background-image: url("../img/kilan2.jpg");
     background-repeat: repeat;
-    margin: 0;
-    padding: 0;
-    background-size: cover;
+    margin: auto;
+    padding: auto;
     background-position-y: -18rem;
 }
 .buttons {
