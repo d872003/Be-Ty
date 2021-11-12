@@ -11,8 +11,8 @@ a {
 
 .page__main {
     /* Ảnh nền của trang đầu tiên nếu bạn muốn đổi thì đổi tại đây */
-    background-image: url("../img/pngtree-purple-dream-unicorn-background-image_118426.jpg");
-    background-repeat: no-repeat;
+    background-image: url("../img/kilan2.jpg");
+    background-repeat: repeat;
     margin: 0;
     padding: 0;
     background-size: cover;
